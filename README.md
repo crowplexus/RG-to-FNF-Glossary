@@ -12,12 +12,13 @@ Suggestions are appreciated !
 
 ## NAMING
 
-|     Rhythm Games     |   Friday Night Funkin'     |
-| :------------------: | :------------------------: |
-| Tap  / Tap Notes     | Note      / Normal Notes   |
-| Hold / Hold Notes    | Sustain   / Sustain Notes  |
-| Mine / Mine Notes    | Hurt Note / Hurt Notes     |
-| Roll / Roll Notes    | NONE OR NO DIFFERENCE      |
+|     Rhythm Games     |   Friday Night Funkin'      |
+| :------------------: | :-------------------------: |
+| Tap  / Tap Notes     | Note      / Normal Notes    |
+| Hold / Hold Notes    | Sustain   / Sustain Notes   |
+| Mine / Mine Notes    | Hurt Note / Hurt Notes      |
+| Nuke / Nuke Notes    | Insta-kill Note (vs Tricky) |
+| Roll / Roll Notes    | NONE OR NO DIFFERENCE       |
 
 obviously, the singular names can have plurals
 
