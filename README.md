@@ -28,14 +28,17 @@ Tap -> Taps, Hold -> Holds, Mine -> Mines, etc
 
 ## DESCRIPTORS
 
-- Mine Notes, or Hurt Notes
-  - A type of note which negatively impacts score when hit, if it's avoided, nothing happens
-
 - Holds, or Sustains
   - Little tails behind a Tap Note which require the player to HOLD the note until the end in order to be hit.
 
+- Mines, or Hurt Notes
+  - A type of note which negatively impacts score when hit, if it's avoided, nothing happens
+
 - Rolls
   - quite similar to holds in the way they render, but rather than holding down the note until the end, you must tap repeteadely, preventing the note from fading out, until it ends
+
+- Nukes, or Insta-kill Notes
+  - It's similar to mines, except they remove a larger chunk of your health while also having the same negative effect in score, as seen in VS Tricky V2, they instantly kill you, but usually when seen in other games that have them, they simply take away a VERY large portion of your health, like 80% for example.
 
 ---
 
@@ -43,4 +46,4 @@ Tap -> Taps, Hold -> Holds, Mine -> Mines, etc
 
 |    Rhythm Games      |          Friday Night Funkin'            |
 | :------------------: | :--------------------------------------: |
-| Rolls / Roll Notes   | Multi-tap Notes / Multitaps / Jack Notes |
+| Roll / Roll Notes    | Multi-tap Notes / Multitaps / Jack Notes |
