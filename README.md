@@ -22,4 +22,9 @@ Mine Notes, or Hurt Notes, are a type of note which negatively impacts score whe
 Holds, or Sustains, are little tails behind a Tap Note which require the player to HOLD the note until the end in order to be hit.
 
 Rolls are quite similar to holds in the way they render, but rather than holding down the note until the end, you must tap repeteadely, preventing the note from fading out, until it ends
-(SUGGESTION FOR POTENTIAL FNF NAME: Jack Notes, Multi-tap Notes, Multitaps)
+
+## SUGGESTIONS
+
+| Rhythm Games         | Friday Night Funkin'                     |
+| :------------------: | :--------------------------------------: |
+| Rolls / Roll Notes   | Multi-tap Notes / Multitaps / Jack Notes |
