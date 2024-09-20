@@ -44,6 +44,6 @@ Tap -> Taps, Hold -> Holds, Mine -> Mines, etc
 
 ## SUGGESTIONS
 
-|    Rhythm Games      |          Friday Night Funkin'            |
-| :------------------: | :--------------------------------------: |
-| Roll / Roll Notes    | Multi-tap Notes / Multitaps / Jack Notes |
+|    Rhythm Games      |             Friday Night Funkin'               |
+| :------------------: | :--------------------------------------------: |
+| Roll / Roll Notes    | Multi-tap Sustains / Multitaps / Jack Sustains |
